@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "default": "my-portfolio-aadea"
+  },
+  "targets": {},
+  "etags": {
+    "my-portfolio-aadea": {
+      "extensionInstances": {}
+    }
+  }
+}
